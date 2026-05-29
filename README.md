@@ -1,2 +1,7 @@
 # de_zoomcamp_course
-data engineering zoomcamp exercices 
+Data engineering zoomcamp exercices 
+
+---
+## pipeline
+
+Create a docker to execute a simple pipeline
